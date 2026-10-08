@@ -231,7 +231,7 @@ The figure summarizes the top enriched GO Biological Processes among genes with 
 - [Mohammed Ali](https://github.com/MohammednhAli)
 - [Hussein Kamal](https://github.com/husseinkamal22)
 - [Basmala Ahmed](https://github.com/BasmalaAhmed-606)
-- [Menna](https://github.com/menna13579)
+- [Mennatallah Samir Ahmed](https://github.com/menna13579)
 - [Aya Hegab](https://github.com/ayahegab1)
 
 ## Data Source
