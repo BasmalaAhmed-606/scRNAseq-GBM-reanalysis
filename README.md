@@ -228,11 +228,9 @@ Differential-expression and GO Biological Process enrichment analyses were perfo
 The figure summarizes the top enriched GO Biological Processes among genes with higher expression in Initial or Recurrent tumors within the AC-like, MES-like, and NPC-like states.
 
 ## Team
-- [Mohammed Ali](https://github.com/MohammednhAli)
-- [Hussein Kamal](https://github.com/husseinkamal22)
 - [Basmala Ahmed](https://github.com/BasmalaAhmed-606)
-- [Mennatallah Samir Ahmed](https://github.com/menna13579)
-- [Aya Hegab](https://github.com/ayahegab1)
+- [Jasmine Mohamed](https://github.com/BasmalaAhmed-606)
+- [Mostafa Sameh](https://github.com/BasmalaAhmed-606)
 
 ## Data Source
 
