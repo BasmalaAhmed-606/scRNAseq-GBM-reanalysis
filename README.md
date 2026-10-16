@@ -229,7 +229,7 @@ The figure summarizes the top enriched GO Biological Processes among genes with 
 
 ## Team
 - [Basmala Ahmed](https://github.com/BasmalaAhmed-606)
-- [Jasmine Mohamed](https://github.com/BasmalaAhmed-606)
+- [Jasmine Mohamed](https://github.com/jasminemohamed-bio))
 - [Mostafa Sameh](https://github.com/BasmalaAhmed-606)
 
 ## Data Source
